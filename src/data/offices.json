@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OFFICE_ID": 87,
+        "NAME": "Просто офис",
+        "ADDRESS": "ул. Рихарда Зорге, 17/4",
+        "RENT": false,
+        "DESCRIPTION": "В новом бизнес центре. Есть вентиляция и система пожаротушения",
+        "PICTURE": "/office.svg",
+        "AREA": 32,
+        "FLOOR": 5,
+        "PRICE": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.752257, 55.986889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OFFICE_ID": 88,
+        "NAME": "Просто офис",
+        "ADDRESS": "ул. 50 лет СССР, 42/3",
+        "RENT": false,
+        "DESCRIPTION": "Помещение в новом Бизнес-центре рядом с театром 'Нур'",
+        "PICTURE": "/office.svg",
+        "AREA": 364,
+        "FLOOR": 3,
+        "PRICE": 272840
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.748266, 56.022589]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OFFICE_ID": 89,
+        "NAME": "2 ГИС",
+        "ADDRESS": "​ул. Рихарда Зорге, 70/1",
+        "RENT": true,
+        "DESCRIPTION": "Главный офис компании '2ГИС' по городу Уфа",
+        "PICTURE": "/2GIS.png",
+        "AREA": 75,
+        "FLOOR": 1,
+        "PRICE": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.768185, 56.014992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OFFICE_ID": 90,
+        "NAME": "Panda works",
+        "ADDRESS": "ул. Маршала Жукова, 39/2",
+        "RENT": true,
+        "DESCRIPTION": "Офис компании 'Panda works'",
+        "PICTURE": "/panda.svg",
+        "AREA": 105,
+        "FLOOR": 3,
+        "PRICE": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.778763, 56.068602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OFFICE_ID": 91,
+        "NAME": "Red promo",
+        "ADDRESS": "ул. Маршала Жукова, 39/2",
+        "RENT": true,
+        "DESCRIPTION": "Офис студии веб-дизайна 'Red promo'",
+        "PICTURE": "/Redpromo.svg",
+        "AREA": 95,
+        "FLOOR": 3,
+        "PRICE": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.773144, 56.068088]
+      }
+    }
+  ]
+}
